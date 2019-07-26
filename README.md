@@ -1,5 +1,12 @@
 # Keycloak Camunda Identity Provider Plugin
 
+Important notice: this <span style="color:red">**repository has moved**</span> to
+
+<https://github.com/camunda/camunda-bpm-identity-keycloak>
+
+*Please use the new URL. This repository is not up-to-date and will not be maintained any longer.*
+___
+
 ![Keycloak](doc/keycloak.png "https://www.keycloak.org/") 
 
 Keycloak&trade; (<https://www.keycloak.org/>) is an Open Source Identity and Access Management platform including advanced features such as User Federation, Identity Brokering and Social Login.
